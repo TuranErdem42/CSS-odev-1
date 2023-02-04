@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.header h1 {
+  color: red;
+  margin-top: 13px;
+}
+
+.header ul li {
+  display: inline-block;
+  margin: 13px;
+}
+/* Anasayfa Start */
+.icerik1 h2 {
+  color: blueviolet;
+  margin-bottom: 13px;
+}
+.icerik1 h4 {
+  color: darkgoldenrod;
+  margin: 13px;
+}
+.icerik1 ul{
+    list-style-position: inside;
+
+}
+/* Anasayfa End */
+
+/* Ürünlerimiz Start */
+.icerik3 .box img{
+    width: 500px;
+}
+
+
+/* Ürünlerimiz End */
+/* Hakkımızda Start */
+.icerik2 h2 {
+  color: blueviolet;
+  margin: 15px;
+}
+.icerik2 h3 {
+  color: darkgoldenrod;
+  margin: 15px;
+  text-align: left;
+}
+.icerik2 p {
+  text-align: left;
+  margin-left: 13px;
+}
+/* Hakkımızda End */
